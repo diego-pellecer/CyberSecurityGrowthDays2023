@@ -1,2 +1,2 @@
 # CyberSecurityGrowthDays2023
-Convolutional Neural Networks
+Convolutional Neural Networks and Image Classification in JS and C#
